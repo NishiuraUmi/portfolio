@@ -1,0 +1,11 @@
+/* style.css */
+
+/* 中央揃えのスタイル */
+.center-text {
+    text-align: center;
+}
+
+/* 左揃えのスタイル (デフォルトですが、明示的に定義) */
+.left-text {
+    text-align: left;
+}
