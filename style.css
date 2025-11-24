@@ -1,13 +1,4 @@
 
-/* 中央揃えのスタイル */
-.center-text {
-    text-align: center;
-}
-
-/* 左揃えのスタイル (デフォルトですが、明示的に定義) */
-.left-text {
-    text-align: left;
-}
 /* このクラスを適用すると下線が引かれます */
 .underline-text {
     text-decoration: underline;
@@ -39,4 +30,6 @@ h2 {
     
     /* 例：文字サイズを大きくする */
     font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
 }
