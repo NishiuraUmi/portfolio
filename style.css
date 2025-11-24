@@ -16,3 +16,9 @@
 a {
     text-decoration: none;
 }
+/* クラス名 "news-item" の要素全体に適用 */
+.news-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
