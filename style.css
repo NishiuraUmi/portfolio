@@ -1,3 +1,4 @@
+
 /* 中央揃えのスタイル */
 .center-text {
     text-align: center;
@@ -28,4 +29,14 @@ a {
     padding: 100px;
     margin-bottom: 10px;
 }
-
+/* タイプセレクター：h2 */
+h2 {
+    /* 例：文字の色を青にする */
+    color: blue;
+    
+    /* 例：下線を追加する */
+    border-bottom: 2px solid blue;
+    
+    /* 例：文字サイズを大きくする */
+    font-size: 24px;
+}
