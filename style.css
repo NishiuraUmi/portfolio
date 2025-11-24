@@ -10,9 +10,7 @@
 /* このクラスを適用すると下線が引かれます */
 .underline-text {
     text-decoration: underline;
-    border: 100px solid #ccc;
-    padding: 100px;
-    margin-bottom: 10px;
+
 }
 
 /* 補足: リンク（<a>タグ）のデフォルトの下線を消したい場合 */
