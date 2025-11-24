@@ -18,7 +18,7 @@ a {
 }
 /* クラス名 "news-item" の要素全体に適用 */
 .news-item {
-    border: 1px solid #ccc;
+    border: 100px solid #ccc;
     padding: 100px;
     margin-bottom: 10px;
 }
