@@ -30,3 +30,9 @@ h2 {
     text-align: center;
     display: inline-block;
 }
+h1 {
+    color: black;
+    border-bottom: 2px solid yellow;
+    font-size: 36px;
+    text-align: center;
+    display: inline-block;
