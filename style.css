@@ -1,5 +1,4 @@
 body {
-  font-family: "Noto Sans JP", sans-serif;
   color: #333;
   margin: 0;
   background-color: #f7fcff;
@@ -275,7 +274,6 @@ main {
 }
 
 #about h2 {
-  font-family: "Tinos", serif;
   font-size: 3.6rem;
   letter-spacing: 0.1em;
   margin-bottom: 20px;
@@ -327,7 +325,6 @@ main {
 }
 
 #skills h2 {
-  font-family: "Tinos", serif;
   font-size: 3.6rem;
   letter-spacing: 0.1em;
   margin-bottom: 60px;
@@ -393,7 +390,6 @@ main {
 }
 
 #works h2 {
-  font-family: "Tinos", serif;
   font-size: 3.6rem;
   letter-spacing: 0.1em;
   margin-bottom: 40px;
@@ -452,7 +448,6 @@ main {
 }
 
 .work-detail h1 {
-  font-family: "Zen Maru Gothic", sans-serif;
   font-size: 3.6rem;
   letter-spacing: 0.1em;
   margin-bottom: 40px;
@@ -462,7 +457,6 @@ main {
 }
 
 .work-detail h2 {
-  font-family: "Zen Maru Gothic", sans-serif;
   font-size: 2.4rem;
   margin-top: 30px;
   margin-bottom: 15px;
@@ -471,13 +465,11 @@ main {
 }
 
 .animation-lab-page .mimi-special-title {
-  font-family: "Zen Maru Gothic", sans-serif;
   color: #f783ac;
   border-bottom-color: #79d2f0;
 }
 
 .animation-lab-page .work-detail h2 {
-  font-family: "Zen Maru Gothic", sans-serif;
   font-size: 1.8rem;
   color: #aaa;
   margin-top: -30px;
@@ -702,7 +694,6 @@ main {
   overflow: hidden; /* はみ出した部分を隠す */
   width: 0; /* 最初は隠しておく（幅を0にする） */
   transition: width 0.5s ease-in-out; /* 0.5秒かけて現れるアニメーション */
-  font-family: "Font Awesome 6 Free"; /* Font Awesomeのフォントを使用 */
   font-weight: 900; /* fa-solidと同じ太さにする */
   letter-spacing: 2.2px; /* 星の間のスペースを調整 */
 }
@@ -823,7 +814,6 @@ footer nav ul li a {
 }
 
 #career h2 {
-  font-family: "Tinos", serif;
   font-size: 3.6rem;
   letter-spacing: 0.1em;
   margin-bottom: 80px;
