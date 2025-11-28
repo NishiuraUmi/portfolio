@@ -3,7 +3,6 @@ body {
   margin: 0;
   background-color: #f7fcff;
 }
-fa-cat
 .site-background {
   position: fixed;
   top: 0;
@@ -978,14 +977,4 @@ footer nav ul li a {
 
 .loading-active {
   overflow: hidden;
-}
-
-nav ul li a .fa-cat {
-  margin-right: 8px;
-  font-size: 0.9em;
-  transition: transform 0.3s ease-in-out;
-}
-
-nav ul li a:hover .fa-cat {
-  transform: scale(1.3) rotate(-15deg);
 }
