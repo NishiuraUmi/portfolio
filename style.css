@@ -444,6 +444,7 @@ main {
   max-width: 800px;
   margin: 0 auto;
   padding: 0 20px;
+  background-color: rgba(175, 245, 219, 0.4);
 }
 
 .work-detail h1 {
