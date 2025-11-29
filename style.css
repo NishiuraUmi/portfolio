@@ -99,7 +99,7 @@ main {
 }
 
 .shape-square {
-  background-color: #f783ac;
+  background-color: #79d2f0;
 }
 
 .shape-triangle {
@@ -107,11 +107,11 @@ main {
   height: 0;
   border-left: 40px solid transparent;
   border-right: 40px solid transparent;
-  border-bottom: 70px solid #79d2f0;
+  border-bottom: 70px solid #f9b268;
 }
 
 .shape-rhombus {
-  background-color: #f9b268;
+  background-color: #f783ac;
   transform: rotate(45deg);
 }
 
