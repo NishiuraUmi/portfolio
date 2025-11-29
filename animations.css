@@ -3,17 +3,17 @@
    ============================== */
 
 /* ヒーローセクションの図形を浮遊させるアニメーション */
-@keyframes float {
-  0% {
+@keyframes rotateAround {
+  from {
     transform: translate(0px, 0px) rotate(0deg); /* (X, Y) */
   }
-  30% {
+  to {
     transform: translate(15px, -30px) rotate(10deg);
   }
-  70% {
+  to {
     transform: translate(-10px, -50px) rotate(-15deg);
   }
-  100% {
+  to {
     transform: translate(25px, -10px) rotate(5deg); /* 100%が0%と異なる位置 */
   }
 }
