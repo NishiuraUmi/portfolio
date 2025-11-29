@@ -3,29 +3,20 @@
    ============================== */
 
 /* ヒーローセクションの図形を浮遊させるアニメーション */
-@keyframes rotateAround {
-  from {
+@keyframes float {
+  0% {
     transform: translate(0px, 0px) rotate(0deg); /* (X, Y) */
   }
-  to {
+  33% {
     transform: translate(15px, -30px) rotate(10deg);
   }
-  to {
+  66% {
     transform: translate(-10px, -50px) rotate(-15deg);
   }
-  to {
+  100% {
     transform: translate(25px, -10px) rotate(5deg); /* 100%が0%と異なる位置 */
   }
 }
-@keyframes rotateAround {
-    from {
-        transform: rotate(0deg) translateX(135px) rotate(0deg); 
-    }
-    to {
-        transform: rotate(360deg) translateX(135px) rotate(-360deg);
-    }
-}
-
 
 /* 背景の図形を飛ばすアニメーション */
 @keyframes fly-up {
