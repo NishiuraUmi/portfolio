@@ -70,7 +70,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(181, 251, 225, 0.8);
+  background-color: rgba(181, 251, 225, 0.6);
   color: #000000;
   text-align: center;
 }
@@ -266,7 +266,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(181, 251, 225, 0.8);
+  background-color: rgba(181, 251, 225, 0.6);
   color: #333;
   text-align: center;
   padding: 80px 20px;
@@ -385,7 +385,7 @@ main {
 #works {
   text-align: center;
   padding: 80px 20px;
-  background-color: rgba(175, 245, 219, 0.8);
+  background-color: rgba(175, 245, 219, 0.6);
 }
 
 #works h2 {
@@ -807,7 +807,7 @@ footer nav ul li a {
 }
 
 #career {
-  background-color: rgba(181, 251, 225, 0.8);
+  background-color: rgba(181, 251, 225, 0.6);
   padding: 80px 20px;
   text-align: center;
 }
