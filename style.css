@@ -9,7 +9,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: linear-gradient(to bottom, #8fd4ff, #f7fcff);
+  background: linear-gradient(to bottom, #8fd4ff, #f7fcff);
   z-index: -2;
 }
 timeline
