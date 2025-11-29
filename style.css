@@ -1,6 +1,7 @@
 body {
   color: #333;
   margin: 0;
+  background: linear-gradient(to bottom, #8fd4ff, #f7fcff);
 }
 .site-background {
   position: fixed;
